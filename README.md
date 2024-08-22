@@ -1,8 +1,5 @@
-[[!MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFNsSUVnMXA1QWRuTEd5TVVCc2pxNHk2UUNnZ3xBQ3Jtc0tteUJCMWxzUGsyLWZLLXFrOHJQS3hySFoyVktJNjcyX1BPY3ZMV20xMUVCZHl4LUtkOUdrVDJpY0dEcnltWldRdThwS2hNRWFBejhabHFfbGs4WmdNVmt0V1lKd0dnM1lVcnI2MW1leFhyN292VEtkdw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)
-
 <h1 align="center">Hi 👋, I'm Ravinder Poonia</h1>
 <h3 align="center">A passionate Full developer from India</h3> 
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonia51&label=Profile%20views&color=0e75b6&style=flat" alt="poonia51" /> </p>
 
